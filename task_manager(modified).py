@@ -1,8 +1,3 @@
-'''
-Response to first review: 
--- Please see line 281 for where the user can edit the status of the task.
--- I find no issue with the generate reports function. Perhaps use the 'tasks' and 'users' text files I have now added to the Dropbox folder
-'''
 #Import libraries
 import datetime
 today = datetime.datetime.now().date()
